@@ -18,12 +18,38 @@ If the Zenodo record has not yet been published, treat the DOI above as reserved
 
 ## What is included
 
-This release contains three outward-facing products and one metadata companion:
+## What is included
 
-- `archive/wh_public_v0_1_0.gpkg` — archival GeoPackage
-- `web/wh_public_v0_1_0_web.geojson` — lightweight web map product
-- `metadata/wh_public_v0_1_0_layer_metadata.xml` — ArcGIS metadata export
-- `docs/methodological_note.md` — release note and methodological context
+This release contains three outward-facing data products and two supporting documentation files:
+
+- [`data/release/v0.1.0/archive/wh_public_v0_1_0.gpkg`](data/release/v0.1.0/archive/wh_public_v0_1_0.gpkg) — archival GeoPackage
+- [`data/release/v0.1.0/web/wh_public_v0_1_0_web.geojson`](data/release/v0.1.0/web/wh_public_v0_1_0_web.geojson) — lightweight web map product
+- [`data/release/v0.1.0/metadata/wh_public_v0_1_0_layer_metadata.xml`](data/release/v0.1.0/metadata/wh_public_v0_1_0_layer_metadata.xml) — ArcGIS metadata export
+- [`docs/methodological-note.md`](docs/methodological-note.md) — methodological note and release context
+- [`docs/sources-and-attribution.md`](docs/sources-and-attribution.md) — source provenance and attribution notes
+
+## Repository structure
+
+```text
+data/
+  release/
+    v0.1.0/
+      archive/
+      web/
+      metadata/
+
+docs/
+  methodological-note.md
+  sources-and-attribution.md
+
+README.md
+CHANGELOG.md
+CITATION.cff
+LICENSE_DATA.md
+LICENSE_DOCS.md
+NOTICE.md
+```
+
 
 ## Spatial scope
 
@@ -77,12 +103,14 @@ Please preserve source acknowledgements in any redistribution, derivative work, 
 
 ## Licensing
 
+## Licensing
+
 The repository uses a split licensing model.
 
-- **Data files** in `data/release/v0.1.0/archive/` and `data/release/v0.1.0/web/` are released under **ODbL-1.0**. See `LICENSE_DATA.md`.
-- **Documentation and metadata files** are released under **CC BY 4.0**. See `LICENSE_DOCS.md`.
+- **Data files** in [`data/release/v0.1.0/archive/`](data/release/v0.1.0/archive/) and [`data/release/v0.1.0/web/`](data/release/v0.1.0/web/) are released under **ODbL-1.0**. See [`LICENSE_DATA.md`](LICENSE_DATA.md).
+- **Documentation and metadata files** are released under **CC BY 4.0**. See [`LICENSE_DOCS.md`](LICENSE_DOCS.md).
 
-Please also preserve the upstream source acknowledgements provided in `NOTICE.md` and `docs/sources-and-attribution.md`.
+Please also preserve the upstream source acknowledgements provided in [`NOTICE.md`](NOTICE.md) and [`docs/sources-and-attribution.md`](docs/sources-and-attribution.md).
 
 ## Contact
 
