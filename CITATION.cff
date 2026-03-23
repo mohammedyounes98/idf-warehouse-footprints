@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+authors:
+  - family-names: "Younes"
+    given-names: "Mohammed"
+title: "Warehouse Footprint"
+version: 0.1.0
+date-released: 2026-03-20
+url: "https://github.com/user/warehouse-footprint"

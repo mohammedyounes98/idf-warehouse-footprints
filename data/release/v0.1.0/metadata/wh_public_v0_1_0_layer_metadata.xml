@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+<Esri>
+<CreaDate>20251020</CreaDate>
+<CreaTime>18122800</CreaTime>
+<ArcGISFormat>1.0</ArcGISFormat>
+<SyncOnce>FALSE</SyncOnce>
+<DataProperties>
+<itemProps>
+<itemName Sync="TRUE">wh_public_v0_1_0</itemName>
+<imsContentType Sync="TRUE">002</imsContentType>
+</itemProps>
+<coordRef>
+<type Sync="TRUE">Geographic</type>
+<geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+<csUnits Sync="TRUE">Angular Unit: Degree (0.017453)</csUnits>
+<peXml Sync="TRUE">&lt;GeographicCoordinateSystem xsi:type='typens:GeographicCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.4.0'&gt;&lt;WKT&gt;GEOGCS[&amp;quot;GCS_WGS_1984&amp;quot;,DATUM[&amp;quot;D_WGS_1984&amp;quot;,SPHEROID[&amp;quot;WGS_1984&amp;quot;,6378137.0,298.257223563]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433],AUTHORITY[&amp;quot;EPSG&amp;quot;,4326]]&lt;/WKT&gt;&lt;XOrigin&gt;-400&lt;/XOrigin&gt;&lt;YOrigin&gt;-400&lt;/YOrigin&gt;&lt;XYScale&gt;999999999.99999988&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;8.983152841195215e-09&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;LeftLongitude&gt;-180&lt;/LeftLongitude&gt;&lt;WKID&gt;4326&lt;/WKID&gt;&lt;LatestWKID&gt;4326&lt;/LatestWKID&gt;&lt;/GeographicCoordinateSystem&gt;</peXml>
+</coordRef>
+</DataProperties>
+<SyncDate>20260319</SyncDate>
+<SyncTime>20053200</SyncTime>
+<ModDate>20260320</ModDate>
+<ModTime>15224100</ModTime>
+<scaleRange>
+<minScale>20000000</minScale>
+<maxScale>5000</maxScale>
+</scaleRange>
+<ArcGISProfile>ItemDescription</ArcGISProfile>
+</Esri>
+<dataIdInfo>
+<envirDesc Sync="FALSE">Esri ArcGIS 13.4.0.55405</envirDesc>
+<dataLang>
+<languageCode value="fra" Sync="TRUE">
+</languageCode>
+<countryCode value="FRA" Sync="TRUE">
+</countryCode>
+</dataLang>
+<idCitation>
+<resTitle Sync="FALSE">Working inventory of large warehouse-like building footprints in Île-de-France, France — public release v0.1.0</resTitle>
+<presForm>
+<PresFormCd value="005" Sync="TRUE">
+</PresFormCd>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd value="001" Sync="TRUE">
+</SpatRepTypCd>
+</spatRpType>
+<idPurp>This dataset provides a public working inventory of selected large warehouse-like building footprints in Île-de-France. It represents a curated release derived from a broader internal processing and review workflow and is published for exploratory use, preliminary analysis, and methodological transparency. This version is a working release rather than a final or exhaustive reference inventory.</idPurp>
+<idAbs>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;DIV STYLE="font-size:12pt"&gt;&lt;P&gt;&lt;SPAN&gt;wh_public_v0_1_0 is a public release of &lt;/SPAN&gt;&lt;SPAN&gt;potential &lt;/SPAN&gt;&lt;SPAN&gt;warehouse building footprints prepared from a larger internal master dataset that includes both retained and rejected candidates as well as additional source-derived and processing fields.&lt;/SPAN&gt;&lt;SPAN /&gt;&lt;SPAN&gt;The present public version contains only the retained features selected for release and a deliberately reduced attribute schema intended for external dissemination. The layer is designed to support exploratory mapping, initial spatial analysis, and public documentation of the current working state of the inventory, while avoiding the publication of unnecessary internal provenance fields, intermediate processing artefacts, or source-layer attribute clutter.&lt;/SPAN&gt;&lt;SPAN /&gt;&lt;SPAN&gt;This release should be understood as a working inventory. It may contain omissions, classification uncertainty, or features that are revised in later versions. Future releases may modify geometries, identifiers, coverage, or inclusion logic as the methodology is refined and the inventory is further reviewed.&lt;/SPAN&gt;&lt;SPAN /&gt;&lt;SPAN&gt;The public layer is versioned independently from the internal master workflow. The persistent feature identifier is intended to support continuity across future public releases wherever the same real-world feature remains conceptually the same object.&lt;/SPAN&gt;&lt;/P&gt;&lt;P /&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;SPAN&gt;The purpose of this dataset is to provide a first public working version of a warehouse-related spatial inventory for inspection, exploratory use, and methodological contextualisation. It is intended to support open discussion of the current state of the data, facilitate visualisation in public web maps, and serve as a citable release point for ongoing work.&lt;/SPAN&gt;&lt;SPAN /&gt;&lt;SPAN&gt;This release is not intended to function as a definitive, official, or complete inventory of warehouses in Île-de-France. It should be used as a provisional analytical dataset whose content may evolve across future releases.&lt;/SPAN&gt;&lt;SPAN /&gt;&lt;SPAN&gt;Public working release v0.1.0. Archival repository record: Zenodo. Reserved DOI: 10.5281/zenodo.19131942. &lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</idAbs>
+<idCredit>Dataset preparation, curation, and release: Mohammed Younes, Logistics City Chair, LVMT, Gustave Eiffel University/École nationale des ponts et chaussées.
+
+Under the supervision of Laetitia Dablanc.
+
+This public release was prepared from an internal master workflow using multiple upstream geospatial sources and geoprocessing steps. Please acknowledge the dataset author and the relevant upstream data providers in any reuse, derivative work, or publication.
+
+For citating the current version:
+
+“Mohammed Younes. (2026). Working inventory of large warehouse footprints in Île-de-France, France (v0.1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19131942”</idCredit>
+<searchKeys>
+<keyword>warehouses</keyword>
+<keyword>logistics</keyword>
+<keyword>building footprints</keyword>
+<keyword>Île-de-France</keyword>
+<keyword>France</keyword>
+<keyword>urban logistics</keyword>
+<keyword>industrial buildings</keyword>
+<keyword>geospatial data</keyword>
+<keyword>spatial inventory</keyword>
+<keyword>working dataset</keyword>
+<keyword>public release</keyword>
+<keyword>versioned data</keyword>
+</searchKeys>
+<resConst>
+<Consts>
+<useLimit>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;DIV STYLE="font-size:12pt"&gt;&lt;P&gt;&lt;SPAN&gt;This dataset is a working release published for exploratory, informational, and research-oriented use. It is not guaranteed to be complete, authoritative, or error-free. The inclusion of a feature in this release should not be interpreted as definitive legal, administrative, cadastral, or operational confirmation of warehouse status.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;The dataset may contain classification uncertainty, geometric imperfections, or coverage limitations. Users are responsible for assessing fitness for purpose before any analytical, operational, or policy use.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;This release may be revised, corrected, expanded, or restructured in subsequent versions. Users should cite the exact version used and should not assume that later releases are directly identical in extent, geometry, or feature count.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</useLimit>
+</Consts>
+</resConst>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="search">
+<exTypeCode>0</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+</dataIdInfo>
+<mdLang>
+<languageCode value="fra" Sync="TRUE">
+</languageCode>
+<countryCode value="FRA" Sync="TRUE">
+</countryCode>
+</mdLang>
+<distInfo>
+<distFormat>
+<formatName Sync="TRUE">File Geodatabase Feature Class</formatName>
+</distFormat>
+</distInfo>
+<mdHrLv>
+<ScopeCd value="005" Sync="TRUE">
+</ScopeCd>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode code="4326" Sync="TRUE">
+</identCode>
+<idCodeSpace Sync="TRUE">EPSG</idCodeSpace>
+<idVersion Sync="TRUE">6.2(3.0.1)</idVersion>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<geometObjs Name="wh_public_v0_1_0">
+<geoObjTyp>
+<GeoObjTypCd value="002" Sync="TRUE">
+</GeoObjTypCd>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">0</geoObjCnt>
+</geometObjs>
+<topLvl>
+<TopoLevCd value="001" Sync="TRUE">
+</TopoLevCd>
+</topLvl>
+</VectSpatRep>
+</spatRepInfo>
+<spdoinfo>
+<ptvctinf>
+<esriterm Name="wh_public_v0_1_0">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom code="4" Sync="TRUE">
+</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">0</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+</spdoinfo>
+<eainfo>
+<detailed Name="wh_public_v0_1_0">
+<enttyp>
+<enttypl Sync="TRUE">wh_public_v0_1_0</enttypl>
+<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">0</enttypc>
+</enttyp>
+<attr>
+<attrlabl Sync="TRUE">OBJECTID</attrlabl>
+<attalias Sync="TRUE">OBJECTID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Internal feature number.</attrdef>
+<attrdefs Sync="TRUE">Esri</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Shape</attrlabl>
+<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Feature geometry.</attrdef>
+<attrdefs Sync="TRUE">Esri</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">wh_id</attrlabl>
+<attalias Sync="TRUE">wh_id</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">255</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">release_version</attrlabl>
+<attalias Sync="TRUE">release_version</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">255</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">release_stage</attrlabl>
+<attalias Sync="TRUE">release_stage</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">255</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">method_version</attrlabl>
+<attalias Sync="TRUE">method_version</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">255</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">area_m2_pub</attrlabl>
+<attalias Sync="TRUE">area_m2_pub</attalias>
+<attrtype Sync="TRUE">Integer</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">status_pub</attrlabl>
+<attalias Sync="TRUE">status_pub</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">255</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">review_flag</attrlabl>
+<attalias Sync="TRUE">review_flag</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Shape_Length</attrlabl>
+<attalias Sync="TRUE">Shape_Length</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Length of feature in internal units.</attrdef>
+<attrdefs Sync="TRUE">Esri</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Positive real numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Shape_Area</attrlabl>
+<attalias Sync="TRUE">Shape_Area</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Area of feature in internal units squared.</attrdef>
+<attrdefs Sync="TRUE">Esri</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Positive real numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+</detailed>
+</eainfo>
+<mdDateSt Sync="TRUE">20260320</mdDateSt>
+</metadata>
