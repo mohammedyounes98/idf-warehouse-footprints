@@ -4,6 +4,8 @@ This repository contains the first public working release of a curated spatial i
 
 Version `v0.1.0` is a working release. It is public, citable, and suitable for exploratory mapping and preliminary analysis, but it should not be treated as a final or exhaustive reference inventory. The dataset derives from a broader internal workflow that includes candidate generation, contextual filtering, feature cleaning, and review. The public release is deliberately lean: it contains the retained features and a reduced attribute schema prepared for external dissemination.
 
+This dataset was produced within the framework of the [Logistics City Chair](https://www.lvmt.fr/chaires/logistics-city/) at Université Gustave Eiffel.
+
 ## Release status
 
 - **Release type:** public working release
