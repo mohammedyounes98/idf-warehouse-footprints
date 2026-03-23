@@ -10,7 +10,7 @@ This dataset was produced within the framework of the [Logistics City Chair](htt
 
 - **Release type:** public working release
 - **Version:** `v0.1.0`
-- **Release date:** `2026-03-20`
+- **Release date:** `2026-03-23`
 - **DOI:** `10.5281/zenodo.19131942`
 - **Publisher:** Zenodo
 
