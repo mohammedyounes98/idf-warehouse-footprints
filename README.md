@@ -22,9 +22,6 @@ An interactive public web map for this release is available here:
 - **DOI:** `10.5281/zenodo.19131942`
 - **Publisher:** Zenodo
 
-If the Zenodo record has not yet been published, treat the DOI above as reserved. Once the record is published, the same DOI becomes the active archival identifier for this version.
-
-## What is included
 
 ## What is included
 
@@ -61,7 +58,7 @@ NOTICE.md
 
 ## Spatial scope
 
-The release covers Île-de-France, France.
+The release covers the region of Île-de-France, France.
 
 ## Attribute schema
 
@@ -109,7 +106,6 @@ This release is derived from a broader workflow that integrates multiple upstrea
 
 Please preserve source acknowledgements in any redistribution, derivative work, or publication based on this release.
 
-## Licensing
 
 ## Licensing
 
